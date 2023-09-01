@@ -33,6 +33,8 @@ $ pnpm run start:prod
 
 ## Cargar semilla
 
+(deletes previous data)
+
 ```
 http://localhost:3000/seed
 ```
